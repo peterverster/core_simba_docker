@@ -15,4 +15,4 @@ jobs:
           repository: ${{ github.repository }}/dotnet-simba-spark-odbc
           registry: docker.pkg.github.com
           always_pull: true
-          tags: 5.0
+          tags: "5.0"
